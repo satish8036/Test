@@ -43,7 +43,7 @@
         <pd:inputBindings>
             <pfx:ReadActivityInputClass>
                 <fileName>
-                    <xsl:value-of select="&quot;G:\Practice\emmp.csv&quot;"/>
+                    <xsl:value-of select="&quot;G:\Practice\emmpp.csv&quot;"/>
                 </fileName>
             </pfx:ReadActivityInputClass>
         </pd:inputBindings>
